@@ -1,0 +1,6 @@
+# Ambiente Virtual
+tcc_env/
+
+# Caches do Python
+__pycache__/
+*.pyc
