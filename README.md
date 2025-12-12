@@ -80,4 +80,4 @@ To reproduce the experiments, it is recommended to use a virtual environment.
 This project is licensed under the MIT License - see the LICENSE file for details.
 * Quantum Neural Network (QNN/VQC) - using RealAmplitudes Ansatz
 
-## Project Structure
+
